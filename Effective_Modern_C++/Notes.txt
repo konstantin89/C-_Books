@@ -1,0 +1,6 @@
+
+Mutex is "Move Only" type. Adding mutex to
+class makes it "Move Only" and you can't make
+copies of that class.
+
+
